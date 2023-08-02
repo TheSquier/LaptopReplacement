@@ -1,6 +1,9 @@
 # LaptopReplacement
 Laptop replacement scripts for a corporate environment
+
+
 ###################################################################################
+
 Author: Alexander Squier | xandersquier@outlook.com
 Time to complete script: ~7 min 30s(6 minutes unattended. 1min 30s attended.)
 Time to complete lite: ~2 minutes
@@ -23,6 +26,7 @@ This is an application for backing up and restoring laptops to expidite the setu
 process for replacements and first time configuration.  
 
 ###########################     PROCESS    #######################################
+
 The Backup
 1. User prefences are backed up for Avaya and browsers and outlook
 
