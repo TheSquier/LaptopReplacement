@@ -9,6 +9,8 @@ Time to complete script: ~7 min 30s(6 minutes unattended. 1min 30s attended.)
 Time to complete lite: ~2 minutes
 
 Required Permissions: Standard User
+
+
 #############################        USES       ###################################
 
 This script helps aid in the successful setup, and testing of all needed functions
